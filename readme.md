@@ -73,7 +73,6 @@ Using alert and prompt, write a program that asks the user to guess a number and
 Or
 
 (String) “Lower”, if Guess is higher than the secret number
-
 Or
 
 (String) “Correct!” , if Guess is equal to the secret number
